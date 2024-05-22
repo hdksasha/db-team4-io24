@@ -23,42 +23,39 @@
 ![](./assets/role_delete.png)
 
 
-## Permission
+## User
 
 ### POST
-![](./assets/permission_post.png)
+![](./assets/user_post.png)
 
 ### GET (all)
-![](./assets/permission_get_all.png)
+![](./assets/user_get_all.png)
 
 ### GET (id)
-![](./assets/permission_get_id.png)
+![](./assets/user_get_id.png)
 
 ### PUT
-![](./assets/permission_put.png)
+![](./assets/user_put.png)
 
 ### DELETE
-![](./assets/permission_delete.png)
+![](./assets/user_delete.png)
 
-## Grant
+## Member
 
 ### POST
-![](./assets/grant_post.png)
+![](./assets/member_post.png)
 
 ### GET (all)
-![](./assets/grant_get_all.png)
+![](./assets/member_get_all.png)
 
 ### GET (id)
-![](./assets/grant_get_id.png)
+![](./assets/member_get_id.png)
 
 ### GET (roleID)
-![](./assets/grant_get_roleid.png)
-
-### GET (permissionId)
-![](./assets/grant_get_permissionid.png)
+![](./assets/member_get_roleid.png)
 
 ### PUT
-![](./assets/grant_put.png)
+![](./assets/member_put.png)
 
 ### DELETE
-![](./assets/grant_delete.png)
+![](./assets/member_delete.png)
