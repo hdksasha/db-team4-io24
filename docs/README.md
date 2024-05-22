@@ -3,15 +3,15 @@ home: true
 actionText: Розпочати →
 actionLink: /intro/
 
-footer: "ECL 2.0 Licensed | Copyright © [2024] [Danylo Zakrevskyi]"
+footer: "ECL 2.0 Licensed | Copyright © [2024] [Oleksandra Haidukevych]"
 ---
 
 
-**Виконав:** 
+**Виконала:** 
 
-*студент 2-го курсу, групи ІО-24*<span padding-right:5em></span> 
+*студентка 2-го курсу, групи ІО-24*<span padding-right:5em></span> 
 
-**Закревський Данило [Telegram](https://t.me/Mayfff)**
+**Гайдукевич Олександра [Telegram](https://t.me/sashka_gd)**
 
 **Керівник**
 
